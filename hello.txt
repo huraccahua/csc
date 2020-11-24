@@ -1,0 +1,4 @@
+Hola
+
+Este es un nuevo documento.
+Fin del archivo.
